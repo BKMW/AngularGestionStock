@@ -1,0 +1,11 @@
+.row{
+    padding:15px;
+}
+.col,.col-md-2,.col-sm-3 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.sidebar{
+    height: 100vh;  
+
+}
